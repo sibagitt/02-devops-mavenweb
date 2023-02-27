@@ -1,5 +1,9 @@
+
 <html>
-<body>
-<h2>Hello World!</h2>
-</body>
+    <head>
+        <title>Example</title>
+    </head>
+    <body>
+        <p>This is an example of a simple HTML page with one paragraph.</p>
+    </body>
 </html>
