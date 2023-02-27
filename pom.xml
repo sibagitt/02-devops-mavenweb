@@ -22,6 +22,12 @@
     <version>5.2.22.RELEASE</version>
 </dependency>
 
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-web caption</artifactId>
+    <version>5.2.22.RELEASE</version>
+</dependency>
+
   </dependencies>
   <build>
     <finalName>02-maven-web-app</finalName>
