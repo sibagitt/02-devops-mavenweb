@@ -24,7 +24,7 @@
 
 <dependency>
     <groupId>org.springframework</groupId>
-    <artifactId>spring-web caption</artifactId>
+    <artifactId>spring-web context</artifactId>
     <version>5.2.22.RELEASE</version>
 </dependency>
 
